@@ -1,4 +1,4 @@
-# TokoPink
+# Toko Pink
 
 ## English
 This website was created to fulfill a project for a Tas and Fancy Store called TokoPink which operates at PGS Surabaya, where this project was created so that TokoPink has an impact online and not just offline.
